@@ -18,7 +18,7 @@ class Nazi:
         self.w_slicer = 8
         self.w_counter = 0
         self.state = True
-        self.j_threshold = self.y_loc - 250
+        self.j_threshold = self.y_loc - 200
         self.YD = 5 #ydirection hamishegi
         self.yd = self.YD
         self.rect = self.i_walk1.get_rect(topleft = self.location)
