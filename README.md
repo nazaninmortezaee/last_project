@@ -2,9 +2,7 @@
 
 ## Introduction
 
-Nazi Game is a 2D platformer where players navigate through obstacles and jump to avoid them.
-The game features a day-night cycle and allows for enhanced jumping with the use of the double space key feature.
-Your goal is to achieve the highest score possible while avoiding obstacles that come your way.
+Nazi Game is a 2D platformer where players navigate through obstacles and jump to avoid them. The game features a day-night cycle and allows for enhanced jumping with the use of the double space key feature. Your goal is to achieve the highest score possible while avoiding obstacles that come your way.
 
 ## Requirements
 
@@ -15,11 +13,14 @@ You can install the required library using pip:
 ```bash
 pip install pygame==2.6.0
 
+
 How to Use
 
 1.Download the Project:
 
 You can download this project from GitHub. Clone the repository or download it as a ZIP file.
+git clone https://github.com/nazaninmortezaee/platform_game/archive/refs/heads/main.zip
+
 
 2.Run the Game:
 
@@ -37,7 +38,7 @@ The project relies on images and sound files located in the ./assets/ directory.
 -Sound files, including "jump.wav", "game_over.wav", "background.wav".
 
 The project relies on Screenshots of the game environment located in the .screenshots/folder. Ensure the following files are present in this folder:
--screenshots such as "day_mode.jpg", "night_mode.jpg", "game_over_day.jpg", "game_over_night.jpg", "jump_day.jpg", "jump_night.jpg"
+-screenshots such as ![daymode](screenshots/day_mode.png), ![nightmode](screenshots/night_mode.png), ![gameoverday](screenshots/game_over_day.png), ![gameovernight](screenshots/game_over_night.png) , ![jumpday](screenshots/jump_day.png), ![jumpnight](screenshots/jump_night.png)
 
 Development:
 
